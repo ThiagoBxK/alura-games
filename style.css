@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+#app {
+  max-width: 1920px;
+  margin: 0 auto;
+}
+
+.section::before {
+  content: "";
+  position: absolute;
+  bottom: calc(0% - 148px);
+  left: -10%;
+  height: calc(20% + 96px);
+  width: 120%;
+  transform: rotate(-3.5deg);
+  background-color: white;
+}

@@ -1,0 +1,88 @@
+[
+  {
+    "name": "Racing Limits",
+    "cover": "https://images.crazygames.com/racing-limits_16x9/20231106035424/racing-limits_16x9-cover",
+    "description": "Racing Limits é um jogo de corrida que permite que você desenvolva suas habilidades ao máximo. Corra e ultrapasse veículos no trânsito urbano e rodoviário com quatro modos de jogo emocionantes: transportador, infinito, contra-tempo e modo livre. Escolha entre o tráfego de mão única e de mão dupla e experimente três horários do dia - 'Manhã', 'Pôr do sol' e 'Noite'. Com vários ângulos de câmera, controles sensíveis e física realista, é uma aventura em alta velocidade que você não vai querer perder. Personalize, atualize e participe de vários eventos de corrida neste mundo de corrida graficamente deslumbrante!",
+    "iframe": "https://www.crazygames.com/embed/racing-limits",
+    "tags": ["Carro", "Simulação", "3D"],
+    "controls": [
+      [
+        "Tecla de seta para cima para acelerar",
+        "Tecla de seta para baixo para desacelerar",
+        "Teclas de seta para a esquerda e direita para dirigir",
+        "C para mudar a visão da câmera",
+        "F para usar nitro",
+        "E para buzinar",
+        "W para subir marcha no modo de marcha manual",
+        "D para descer marcha no modo de marcha manual",
+        "ESC para sair do progresso atual"
+      ]
+    ]
+  },
+  {
+    "name": "Miniblox",
+    "cover": "https://images.crazygames.com/miniblox_16x9/20240617083401/miniblox_16x9-cover",
+    "description": "Miniblox é um jogo online com gráficos voxelizados e uma seleção diversificada de minijogos. Explore possibilidades infinitas enquanto mergulha em um mundo vibrante de criatividade e competição. Junte-se a nós e deixe as aventuras voxel começarem!",
+    "iframe": "https://www.crazygames.com/embed/miniblox",
+    "tags": ["Pixel", "Minecraft", "3D"],
+    "controls": [
+      "WASD = mover-se",
+      "Barra de espaço = pular",
+      "Shift = correr",
+      "Alt = agachar",
+      "Clique esquerdo = minerar e atacar",
+      "Clique direito = colocar blocos",
+      "E = abrir seu inventário",
+      "Duas toques na barra de espaço = voar no modo criativo",
+      "Enter = chat",
+      "P = pausar o jogo"
+    ]
+  },
+  {
+    "name": "Sweety Ludo",
+    "cover": "https://images.crazygames.com/sweety-ludo_16x9/20240724062545/sweety-ludo_16x9-cover",
+    "description": "Sweety Ludo é uma mistura encantadora do tradicional jogo Ludo com adoráveis ​​visuais 2D. Desafie amigos ou jogadores globais em emocionantes partidas multijogador para coletar doces e reinar supremo!",
+    "iframe": "https://www.crazygames.com/embed/sweety-ludo",
+    "tags": ["Casual", "Tabuleiro", "Estrategia"],
+    "controls": ["Use o botão esquerdo do mouse para jogar."]
+  },
+  {
+    "name": "Hazmob FPS: Online Shooter",
+    "cover": "https://images.crazygames.com/hazmob-fps-online-shooter_16x9/20240607181337/hazmob-fps-online-shooter_16x9-cover",
+    "description": "Hazmob FPS: Online Shooter é um jogo FPS multijogador onde você participa de batalhas críticas contra outros jogadores em vários modos de jogo. Jogue em uma batalha rápida para entrar em ação imediatamente!",
+    "iframe": "https://www.crazygames.com/embed/hazmob-fps-online-shooter",
+    "tags": ["Tiro", "Guerra", "FPS"],
+    "controls": [
+      "WASD = mover",
+      "Espaço = pular",
+      "Esquerdo do mouse = atirar",
+      "Botão direito do mouse / V = mira",
+      "P = placar, pausa e configurações",
+      "G = pegar a arma",
+      "C = agachar",
+      "Shift = correr",
+      "1, 2, 3 = trocar de arma",
+      "4, 5, 6 = habilidades",
+      "E = habilidades alternativas",
+      "Q = habilidades alternativas"
+    ]
+  },
+  {
+    "name": "BodyCamera Shooter",
+    "cover": "https://images.crazygames.com/bodycamera-shooter_16x9/20240805083830/bodycamera-shooter_16x9-cover",
+    "description": "BodyCamera Shooter é um jogo de tiro FPS onde você vê tudo desde uma câmera corporal fixada em seu lutador, te levando por uma experiência bastante realista através de prédios abandonados e escombros, com o objetivo de matar ou ser morto. Você entenderá o conceito se estiver familiarizado com o jogo Bodycam. Entre no campo de batalha e desfrute de uma experiência de jogo única! BodyCamera Shooter oferece ação de tiro em primeira pessoa ultra-realista diretamente no seu navegador e no seu telefone.",
+    "iframe": "https://www.crazygames.com/embed/bodycamera-shooter",
+    "tags": ["Tiro", "Guerra", "FPS"],
+    "controls": [
+      "WASD / teclas de seta = mover",
+      "Shift = correr",
+      "Espaço = pular",
+      "C = sentar-se",
+      "Clique esquerdo = atirar",
+      "Clique direito = mirar",
+      "R = recarregar",
+      "1, 2, 3 / roda do mouse = trocar de arma",
+      "Tab = pausar"
+    ]
+  }
+]
